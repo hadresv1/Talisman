@@ -4,7 +4,7 @@ import time
 
 
 
-
+#lol
 screen = pygame.display.set_mode((640, 240))
 YELLOW = (255, 255, 0)
 RED = (255, 0, 0)
